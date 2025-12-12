@@ -5,12 +5,17 @@ Brazilian E-Commerce Public Dataset | 17 SQL Case Study Questions
 This project contains a complete analysis of the Brazilian e-commerce dataset using Google BigQuery.
 It answers 17 real business questions related to:
 
-1.  Customer behavior
-2.  Order trends
-3.  Logistics & delivery performance
-4.  Payment type patterns
-5.  State-wise order distribution
-6.  Price & freight comparisons
+  Customer behavior
+   
+  Order trends
+  
+  Logistics & delivery performance
+  
+  Payment type patterns
+  
+  State-wise order distribution
+  
+  Price & freight comparisons
 
 All SQL queries, insights, and documentation are included.
 
